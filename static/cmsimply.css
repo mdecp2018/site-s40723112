@@ -2,8 +2,8 @@
   position: relative;
 }
 header{
-  background-image:url(https://i.imgur.com/XNJ9A.gif);
-  padding: 25px;
+  background-image:url(http://1.bp.blogspot.com/-OrCeHRrReH0/VJBUaGpckuI/AAAAAAAACFg/WNOtfwZvFQs/s1600/2.jpg);
+  padding: 65px;
 }
 confmenu
 {
@@ -28,7 +28,7 @@ confmenu li a
 	float: left;
 	padding: 5px 10px;
 	color: #fff;
-	background: #333;
+	background: #009900;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -112,7 +112,7 @@ ul#css3menu1 a{
 	text-align:left;
 	text-decoration:none;
 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#000000;
+	color:#f00;
 	cursor:pointer;
 	padding:7px 12px;
 	background-color:;
